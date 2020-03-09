@@ -2,7 +2,7 @@
   "name": "dotnet-test-explorer",
   "displayName": ".NET Core Test Explorer",
   "description": "Test Explorer for .NET Core (MSTest, xUnit, NUnit)",
-  "version": "0.7.1",
+  "version": "0.0.1",
   "publisher": "hjdarnel",
   "license": "MIT",
   "icon": "testexplorer_dark.png",
@@ -270,13 +270,33 @@
     "watch": "tsc -watch -p ./",
     "postinstall": "node ./node_modules/vscode/bin/install",
     "test": "npm run compile && node ./node_modules/vscode/bin/test",
-    "tslint": "tslint -t verbose src/**/*.ts"
+    "tslint": "tslint -t verbose src/**/*.ts",
+    "semantic-release": "semantic-release"
+  },
+  "release": {
+    "verifyConditions": [
+      "semantic-release-vsce",
+      "@semantic-release/github"
+    ],
+    "prepare": {
+      "path": "semantic-release-vsce",
+      "packageVsix": "your-extension.vsix"
+    },
+    "publish": [
+      "semantic-release-vsce",
+      {
+        "path": "@semantic-release/github",
+        "assets": "your-extension.vsix"
+      }
+    ]
   },
   "devDependencies": {
     "@types/mocha": "^2.2.32",
     "@types/node": "^8.10.36",
     "@types/sinon": "^4.3.0",
     "mocha": "^6.1.4",
+    "semantic-release": "^17.0.4",
+    "semantic-release-vsce": "^3.0.1",
     "sinon": "^4.5.0",
     "tslint": "^5.6.0",
     "typescript": "^2.6.2",

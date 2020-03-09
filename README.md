@@ -1,6 +1,6 @@
-[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/vscode-dotnet-test-explorer/Lobby)
-
 # .NET Core Test Explorer
+
+This is a fork of [formulahendry/vscode-dotnet-test-explorer](https://github.com/formulahendry/vscode-dotnet-test-explorer), which I intend to release individual and keep up to date with that repo.
 
 ## Features
 
@@ -28,7 +28,7 @@ By utilizing auto watch (see settings) test can be run upon changing in files.
 
 #### Configuring multiple test projects
 
-Setting dotnet-test-explorer.testProjectPath accepts a glob pattern that should point to your test directories. You can also point to files and it will figure out the corresponding path. 
+Setting dotnet-test-explorer.testProjectPath accepts a glob pattern that should point to your test directories. You can also point to files and it will figure out the corresponding path.
 
 Given the folder structure
 * root
@@ -89,7 +89,7 @@ Text from the dotnet test output as well as debug info is written to the Output/
 This is because of limitations in the omnisharp extensions. We can only navigate to symbols which are in the currently selected workspace.
 
 ##### Test result is not shown in CodeLens / tree
-Try and change the setting dotnet-test-explorer.pathForResultFile to point to a folder you have access right too. CodeLens functionality also requires the [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)) 
+Try and change the setting dotnet-test-explorer.pathForResultFile to point to a folder you have access right too. CodeLens functionality also requires the [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp))
 
 ##### No tree view or color coded explorer for NUnit / MSTest
 This requires you to run dotnet SDK version 2.2.104 or higher. The extension tries to run the commands with the English cli but if things are not working as expected anyway it may be due to the cli language (see [#77](https://github.com/formulahendry/vscode-dotnet-test-explorer/issues/77) for details).
