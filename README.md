@@ -118,10 +118,53 @@ See Change Log [here](CHANGELOG.md)
 
 ## Issues
 
-If you find any bug or have any suggestion/feature request, please submit the [issues](https://github.com/formulahendry/vscode-dotnet-test-explorer/issues) to the GitHub Repo.
+If you find any bug or have any suggestion/feature request, please submit the [issues](https://github.com/hjdarnel/vscode-dotnet-test-explorer/issues) to the GitHub Repo.
 
-## ❤️ Contributors
+## Contributors ✨
 
-Thanks to all the [contributors](https://github.com/formulahendry/vscode-dotnet-test-explorer/graphs/contributors)!
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Special thanks to Stefan Forsberg ([@stefanforsberg](https://github.com/stefanforsberg)) for maintaining the project and implementing so many cool features! Also thanks to Janaka Abeywardhana ([@janaka](https://github.com/janaka)) for maintaining the project!
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/stefanforsberg"><img src="https://avatars1.githubusercontent.com/u/358570?v=4" width="100px;" alt=""/><br /><sub><b>Stefan Forsberg</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=stefanforsberg" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.zhihu.com/people/formulahendry"><img src="https://avatars0.githubusercontent.com/u/1050213?v=4" width="100px;" alt=""/><br /><sub><b>Jun Han</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=formulahendry" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/jmansar"><img src="https://avatars2.githubusercontent.com/u/101620?v=4" width="100px;" alt=""/><br /><sub><b>Jerzy Mansarliński</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=jmansar" title="Code">💻</a></td>
+    <td align="center"><a href="http://darnell.io"><img src="https://avatars1.githubusercontent.com/u/7868899?v=4" width="100px;" alt=""/><br /><sub><b>Henry Darnell</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=hjdarnel" title="Code">💻</a> <a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=hjdarnel" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Mgenuit"><img src="https://avatars3.githubusercontent.com/u/42111466?v=4" width="100px;" alt=""/><br /><sub><b>Mgenuit</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=Mgenuit" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DTeuchert"><img src="https://avatars2.githubusercontent.com/u/16237337?v=4" width="100px;" alt=""/><br /><sub><b>DTeuchert</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=DTeuchert" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/seesharper"><img src="https://avatars0.githubusercontent.com/u/1034073?v=4" width="100px;" alt=""/><br /><sub><b>Bernhard Richter</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=seesharper" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.janaka.co.uk"><img src="https://avatars0.githubusercontent.com/u/51779?v=4" width="100px;" alt=""/><br /><sub><b>Janaka Abeywardhana</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=janaka" title="Code">💻</a></td>
+    <td align="center"><a href="http://stapp.space"><img src="https://avatars2.githubusercontent.com/u/2411329?v=4" width="100px;" alt=""/><br /><sub><b>Piotr Stapp</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=ptrstpp950" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/teamdynamiq"><img src="https://avatars0.githubusercontent.com/u/34121425?v=4" width="100px;" alt=""/><br /><sub><b>teamdynamiq</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=teamdynamiq" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.doctran.co.uk"><img src="https://avatars1.githubusercontent.com/u/10943153?v=4" width="100px;" alt=""/><br /><sub><b>Chris</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=CPardi" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ciel"><img src="https://avatars1.githubusercontent.com/u/438196?v=4" width="100px;" alt=""/><br /><sub><b>Ciel</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=ciel" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/davidpendraykalibrate"><img src="https://avatars2.githubusercontent.com/u/35926989?v=4" width="100px;" alt=""/><br /><sub><b>David Pendray</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=davidpendraykalibrate" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Jjagg"><img src="https://avatars0.githubusercontent.com/u/14875382?v=4" width="100px;" alt=""/><br /><sub><b>Jesse</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=Jjagg" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Tarmil"><img src="https://avatars0.githubusercontent.com/u/921395?v=4" width="100px;" alt=""/><br /><sub><b>Loïc Denuzière</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=Tarmil" title="Code">💻</a></td>
+    <td align="center"><a href="http://blogorama.nerdworks.in/"><img src="https://avatars1.githubusercontent.com/u/628128?v=4" width="100px;" alt=""/><br /><sub><b>Rajasekharan Vengalil</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=avranju" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rhyswat"><img src="https://avatars2.githubusercontent.com/u/1647341?v=4" width="100px;" alt=""/><br /><sub><b>Rhys Watkin</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=rhyswat" title="Code">💻</a></td>
+    <td align="center"><a href="http://samcragg.wordpress.com/"><img src="https://avatars2.githubusercontent.com/u/1365438?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Cragg</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=samcragg" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/sandy081"><img src="https://avatars2.githubusercontent.com/u/10746682?v=4" width="100px;" alt=""/><br /><sub><b>Sandeep Somavarapu</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=sandy081" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/tiagodenoronha"><img src="https://avatars2.githubusercontent.com/u/27889458?v=4" width="100px;" alt=""/><br /><sub><b>Tiago Noronha</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=tiagodenoronha" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/alexriedl"><img src="https://avatars3.githubusercontent.com/u/6668240?v=4" width="100px;" alt=""/><br /><sub><b>alexriedl</b></sub></a><br /><a href="https://github.com/hjdarnel/vscode-dotnet-test-explorer/commits?author=alexriedl" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
