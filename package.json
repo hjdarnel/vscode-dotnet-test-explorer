@@ -3,7 +3,7 @@
   "displayName": ".NET Core Test Explorer",
   "description": "Test Explorer for .NET Core (MSTest, xUnit, NUnit)",
   "version": "0.7.1",
-  "publisher": "formulahendry",
+  "publisher": "hjdarnel",
   "license": "MIT",
   "icon": "testexplorer_dark.png",
   "engines": {
@@ -20,13 +20,13 @@
     "F#"
   ],
   "bugs": {
-    "url": "https://github.com/formulahendry/vscode-dotnet-test-explorer/issues",
-    "email": "formulahendry@gmail.com"
+    "url": "https://github.com/hjdarnel/vscode-dotnet-test-explorer/issues",
+    "email": "hjdarnel@gmail.com"
   },
-  "homepage": "https://github.com/formulahendry/vscode-dotnet-test-explorer/blob/master/README.md",
+  "homepage": "https://github.com/hjdarnel/vscode-dotnet-test-explorer/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/formulahendry/vscode-dotnet-test-explorer.git"
+    "url": "https://github.com/hjdarnel/vscode-dotnet-test-explorer.git"
   },
   "activationEvents": [
     "workspaceContains:**/*.csproj",
