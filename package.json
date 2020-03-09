@@ -280,13 +280,13 @@
     ],
     "prepare": {
       "path": "semantic-release-vsce",
-      "packageVsix": "your-extension.vsix"
+      "packageVsix": "hjdarnel.dotnet-test-explorer.vsix"
     },
     "publish": [
       "semantic-release-vsce",
       {
         "path": "@semantic-release/github",
-        "assets": "your-extension.vsix"
+        "assets": "hjdarnel.dotnet-test-explorer.vsix"
       }
     ]
   },
